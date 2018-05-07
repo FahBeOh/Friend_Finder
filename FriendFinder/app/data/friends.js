@@ -1,3 +1,4 @@
+// Array that stores friend data 
 var friendsArray = [
     {
         name: "Sponge Bob",
